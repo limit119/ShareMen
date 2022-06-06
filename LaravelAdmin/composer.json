@@ -27,7 +27,7 @@
         "preferred-install": "dist",
         "sort-packages": true
     },
-    "extra": {ssh -T git@github.com
+    "extra": {
         "laravel": {
             "dont-discover": []
         }
